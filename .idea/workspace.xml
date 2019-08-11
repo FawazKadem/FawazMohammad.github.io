@@ -2,8 +2,178 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="211c4e56-ed2f-47c7-a7a4-f77501e6ec0f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/sections/projects.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/sections/projects.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/accounting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/adobexd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/andrew-borstein-1a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/andrew-borstein-1b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/andrew-borstein-1c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/andrew-borstein-2a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/andrew-borstein-2b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/angular.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/autodata-128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/autodata-200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/bash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/blogspire.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/bootstrap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/bower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/brownborg-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/brownborg-studios.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/campeasy.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/carter.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/chandon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/chop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/cidewalk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/classroom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/code-island.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/coffeescript.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/colorbeat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/css3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/designthinking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/equal-access-ri.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/express.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/falsifid.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/android-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/android-icon-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/android-icon-36x36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/android-icon-48x48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/android-icon-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/android-icon-96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/apple-icon-114x114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/apple-icon-120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/apple-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/apple-icon-152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/apple-icon-180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/apple-icon-57x57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/apple-icon-60x60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/apple-icon-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/apple-icon-76x76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/apple-icon-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/apple-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/browserconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/favicon-96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/ms-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/ms-icon-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/ms-icon-310x310.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/favicon/ms-icon-70x70.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/fawaz-a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/fcpx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/financialmodelling.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/flasifid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/foundation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/git-1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/git-128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/git.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/gnu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/grunt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/guest-list.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/gulp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/haml.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/heroku.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/html5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/interpol8r.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/ionic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/jade.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/java.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/javascript.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/jekyll.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/jquery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/less.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/linux.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/macosx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/madlibs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/materialize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/matlab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/matlabicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/matlabicon_256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/minitest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/mongodb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/monty-are-i-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/nodejs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/photoshop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/php.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/pinteresting-old.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/pinteresting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/pm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/postgresql.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/publicspeaking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/python.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/r.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/rails.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/rbc-128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/react.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/rgbgame.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/rhdri-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/ri-wifi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/rspec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/ruby.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/ryanandchristie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/sass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/saved-by-the-text.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/shelter-finder.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/si-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/skate-something.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/sql.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/squarespace.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/tictactoe.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/tumblr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/vba.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/webpack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/wespire-logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/western-128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/western-raw.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/windows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/builds/development/img/wordpress.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/andrew-borstein-1a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/andrew-borstein-1b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/andrew-borstein-1c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/andrew-borstein-2a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/andrew-borstein-2b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blogspire.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/brownborg-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/brownborg-studios.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/chandon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/chop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cidewalk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classroom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/code-island.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/coffeescript.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/equal-access-ri.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/fcpx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/grunt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/guest-list.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/haml.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/interpol8r.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ionic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/less.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/madlibs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/minitest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/monty-are-i-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/php.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pinteresting-old.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pinteresting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/postgresql.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/rails.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/rhdri-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ri-wifi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/rspec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ruby.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ryanandchristie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/saved-by-the-text.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/shelter-finder.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/si-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/skate-something.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/webpack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/wespire-logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/wordpress.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,16 +186,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/layouts/sections/projects.pug">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="56" column="32" lean-forward="true" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+            <state relative-caret-position="322">
+              <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="182">
@@ -241,12 +411,12 @@
       <workItem from="1565495694885" duration="12066000" />
       <workItem from="1565508662661" duration="1512000" />
       <workItem from="1565510350264" duration="167000" />
-      <workItem from="1565510552600" duration="121000" />
+      <workItem from="1565510552600" duration="495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63990000" />
+    <option name="totallyTimeSpent" value="64364000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -259,9 +429,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17650159" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17650159" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Gulp" order="3" side_tool="true" />
@@ -275,7 +444,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32932165" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32286024" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32286024" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -467,17 +636,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/layouts/sections/projects.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="202" column="143" selection-start-line="202" selection-start-column="136" selection-end-line="202" selection-end-column="143" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/layouts/sections/projects.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="56" column="32" lean-forward="true" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
         </state>
       </provider>
     </entry>
