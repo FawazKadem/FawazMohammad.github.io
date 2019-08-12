@@ -1,2 +1,2 @@
 # FawazMohammad.github.io
-My Personal Website. Hosted @ [fawazm.me](https://fawazm.me)
+My Personal Website. Hosted @ <a href="http://fawazm.me/" target="_blank">fawazm.me</a>
